@@ -8,7 +8,7 @@
 
 <svelte:head><link rel="icon" href={favicon} /><Meta /></svelte:head>
 <main class="element content-grid">
-	<article class="my-48 prose">
+	<article class="my-42 prose">
 		{@render children()}
 	</article>
 </main>
